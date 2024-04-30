@@ -1,7 +1,7 @@
 <h1>Coding Challenges Repository</h1>
 <p>Welcome to the Coding Challenges Repository!</p>
 <p>This repository contains a variety of programming puzzles and challenges I came across to improve my skills.</p>
-<p>I am currently focussing on PHP and SQL.</p>
+<p>I am currently focussing on PHP and SQL and this is still a <b>WIP(Work in progress)</b>.</p>
 
 
 <h2>Contributions</h2>
